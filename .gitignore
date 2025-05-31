@@ -42,3 +42,4 @@ replay_pid*
 */.env.test
 */.env.development.local
 */.env.production.local
+/target/
