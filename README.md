@@ -22,13 +22,13 @@ This .env file contains the essential environment variables needed for your appl
 ## Step 2: Build Docker Images
 Open a terminal or command prompt, navigate to your project's root folder, and run the following command to build the Docker images:
 ```
-docker-compose build
+docker compose build
 ```
 This command will create Docker images based on the configurations defined in your docker-compose.yml file.
 ## Step 3: Start Application
 After the Docker images are built, run the following command to start your application:
 ```
-docker-compose up
+docker compose up
 ```
 Now, your application will be up and running. You can access it in your web browser at http://localhost:8000.
 
