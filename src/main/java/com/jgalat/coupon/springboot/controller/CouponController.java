@@ -7,7 +7,6 @@ import com.jgalat.coupon.springboot.exceptions.CouponMaxUsagesRetriesExceededExc
 import com.jgalat.coupon.springboot.exceptions.CouponNotFoundException;
 import com.jgalat.coupon.springboot.exceptions.CouponNotValidForUserCountryException;
 import com.jgalat.coupon.springboot.exceptions.UserNotFoundException;
-import com.jgalat.coupon.springboot.model.Coupon;
 import com.jgalat.coupon.springboot.model.payload.AddCouponRequest;
 import com.jgalat.coupon.springboot.model.payload.AddCouponResponse;
 import com.jgalat.coupon.springboot.model.payload.UseCouponRequest;
