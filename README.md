@@ -1,4 +1,4 @@
-# empik2025
+# CouponAddingSystem
 
 
 Make sure you have docker and docker-compose installed [docker installation guide](https://docs.docker.com/compose/install/)
